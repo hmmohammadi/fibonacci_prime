@@ -1,2 +1,2 @@
 # fibonacci_prime
-program to find prime numbers with Fibonacci 
+program to find  Fibonacci with prime numbers
